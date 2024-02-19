@@ -31,7 +31,7 @@ data-type="section"
           decoding="async"
           height="400"
           loading="lazy"
-          src="../../MBbIYVtmB095.app/_astro/KE3PKV5sfioW.webp"
+          src="https://generated.vusercontent.net/placeholder.svg"
           width="300"
           className="rounded-lg shadow-md object-cover aspect-[3/4] object-cover"
         />
@@ -49,7 +49,7 @@ data-type="section"
         </div></a
       >
       <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer" className="flex flex-col w-full duration-300 gap-3 hover:translate-y-2 transition" target="_blank">
-        <img alt="The Pragmatic Programmer: From Journeyman to Master" decoding="async" height="400" loading="lazy" src="../../MBbIYVtmB095.app/_astro/KE3PKV5sfioW.webp" width="300" className="rounded-lg shadow-md object-cover aspect-[3/4] object-cover" />
+        <img alt="The Pragmatic Programmer: From Journeyman to Master" decoding="async" height="400" loading="lazy" src="https://generated.vusercontent.net/placeholder.svg" width="300" className="rounded-lg shadow-md object-cover aspect-[3/4] object-cover" />
         <div className="gap-1 w-full">
           <h4 className="font-medium text-gray-700 text-sm dark:text-gray-200">The Pragmatic Programmer: From Journeyman to Master</h4>
           <p className="dark:text-gray-300 text-sm font-normal text-gray-500">Andy Hunt, Dave Thomas</p>

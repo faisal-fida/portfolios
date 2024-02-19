@@ -1,4 +1,3 @@
-import Misc from "@/components/mics";
 import Navbar from "@/components/navbar";
 import { Skills } from '@/components/skills';
 import { Profile } from '../components/profile';
@@ -15,7 +14,7 @@ export default function Home() {
   >
 
     <main
-      className="lg:py-20 lg:space-y-8 max-w-5xl px-2 py-3 sm:px-8 sm:py-12 sm:space-y-6 space-y-4 w-full"
+      className="lg:py-12 lg:space-y-6 max-w-6xl px-2 py-3 sm:px-8 sm:py-12 sm:space-y-6 space-y-4 w-full"
     >
         <Profile />
         <Skills />
@@ -26,7 +25,6 @@ export default function Home() {
         <Favourites />
       </main>
       <Navbar />
-      <Misc />
        </div>
 
   );
